@@ -1,0 +1,162 @@
+@media only screen and (max-width: 1005px) {
+    .navli a {
+
+        margin: .7rem;
+    }
+
+    footer {
+        width: 100%;
+    }
+
+    .footerul {
+        margin: 0;
+    }
+
+
+}
+
+@media only screen and (max-width: 881px) {
+
+    .footer {
+        flex-direction: column;
+
+    }
+
+    .footerul {
+        margin: .4rem;
+        border: .1px solid black;
+    }
+
+    .logo {
+        position: absolute;
+        left: 10px;
+    }
+
+    .nav {
+        height: 447px;
+        color: white;
+        transition: all .7s ease-out;
+        background-color: black;
+
+
+
+    }
+
+    .navul {
+        flex-direction: column;
+
+    }
+
+    .navul a {
+        font-size: 2rem;
+        color: white;
+    }
+
+
+
+    .navli {
+        margin-left: 1rem;
+
+
+    }
+
+
+
+    .burger {
+        display: block;
+    }
+
+    .vnavresp {
+
+        opacity: 0;
+
+
+    }
+
+    .hnavresp {
+
+        color: white;
+        height: 72px;
+    }
+
+
+}
+
+@media only screen and (max-width : 665px) {
+    .section5 {
+        width: 100%;
+    }
+
+    .section6 {
+        width: 100%;
+    }
+
+    .section7 {
+        width: 100%;
+    }
+
+    .section8 {
+        width: 100%;
+    }
+
+    .section9 {
+        width: 100%;
+    }
+
+    .section10 {
+        width: 100%;
+    }
+
+    .section1 {
+        width: 100%;
+    }
+
+    .section2 {
+        width: 100%;
+    }
+
+    .section3 {
+        width: 100%;
+    }
+
+    .section4 {
+        width: 100%;
+    }
+
+
+}
+
+@media only screen and (max-width : 500px) {
+
+    .section2img img {
+        width: 20rem;
+    }
+
+    .section3img img {
+        width: 20rem;
+    }
+
+}
+
+@media only screen and (max-width : 599px) {
+
+    .section1 {
+        padding: .5rem;
+    }
+
+    .section1heading {
+
+        font-size: 2.4rem;
+    }
+
+    .section1para {
+        font-size: 1.7rem;
+        text-align: center;
+    }
+
+    .section1 a {
+        font-size: 1rem;
+    }
+
+
+}
